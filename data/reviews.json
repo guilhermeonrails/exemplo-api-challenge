@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "message": "Visitando a deslumbrante Floresta Amaz\u00f4nica!",
+    "user": "Carlos"
+  },
+  {
+    "id": 2,
+    "message": "Explorando as belezas naturais de Fernando de Noronha.",
+    "user": "Amanda"
+  },
+  {
+    "id": 3,
+    "message": "Curtindo as belas praias de Copacabana.",
+    "user": "Pedro"
+  },
+  {
+    "id": 4,
+    "message": "Conhecendo o Cristo Redentor no Rio de Janeiro.",
+    "user": "Juliana"
+  },
+  {
+    "id": 5,
+    "message": "Apreciando a arquitetura hist\u00f3rica de Ouro Preto.",
+    "user": "Gabriel"
+  },
+  {
+    "id": 6,
+    "message": "Perdido nas ruas encantadoras de Paraty.",
+    "user": "Sophia"
+  },
+  {
+    "id": 7,
+    "message": "Maravilhado com as Cataratas do Igua\u00e7u.",
+    "user": "Lucas"
+  },
+  {
+    "id": 8,
+    "message": "Explorando as belezas subaqu\u00e1ticas de Bonito.",
+    "user": "Mariana"
+  },
+  {
+    "id": 9,
+    "message": "Admirando o p\u00f4r do sol em Jericoacoara.",
+    "user": "Gustavo"
+  },
+  {
+    "id": 10,
+    "message": "Saboreando a deliciosa gastronomia de Bel\u00e9m.",
+    "user": "Larissa"
+  },
+  {
+    "id": 11,
+    "message": "Conhecendo as tradi\u00e7\u00f5es do Pelourinho em Salvador.",
+    "user": "Rafael"
+  },
+  {
+    "id": 12,
+    "message": "Aproveitando a calmaria de Arraial do Cabo.",
+    "user": "Camila"
+  },
+  {
+    "id": 13,
+    "message": "Encantado com os Len\u00e7\u00f3is Maranhenses.",
+    "user": "Diego"
+  },
+  {
+    "id": 14,
+    "message": "Explorando a cultura da capital, S\u00e3o Paulo.",
+    "user": "Isabella"
+  },
+  {
+    "id": 15,
+    "message": "Caminhando pela hist\u00f3rica Paraty.",
+    "user": "Matheus"
+  },
+  {
+    "id": 16,
+    "message": "Apreciando a vista do P\u00e3o de A\u00e7\u00facar.",
+    "user": "Fernanda"
+  },
+  {
+    "id": 17,
+    "message": "Visitando o Santu\u00e1rio Nacional de Aparecida.",
+    "user": "Rodrigo"
+  },
+  {
+    "id": 18,
+    "message": "Descansando nas praias de B\u00fazios.",
+    "user": "Lorena"
+  },
+  {
+    "id": 19,
+    "message": "Explorando as belezas da Chapada dos Veadeiros.",
+    "user": "Hugo"
+  },
+  {
+    "id": 20,
+    "message": "Admirando as forma\u00e7\u00f5es rochosas de Vila Velha.",
+    "user": "Carolina"
+  },
+  {
+    "id": 21,
+    "message": "Relaxando nas \u00e1guas termais de Caldas Novas.",
+    "user": "Vitor"
+  },
+  {
+    "id": 22,
+    "message": "Encantado com a cultura de Olinda.",
+    "user": "Raquel"
+  },
+  {
+    "id": 23,
+    "message": "Conhecendo a hist\u00f3ria do Pelourinho em Salvador.",
+    "user": "Tiago"
+  },
+  {
+    "id": 24,
+    "message": "Explorando a vida selvagem no Pantanal.",
+    "user": "Bianca"
+  },
+  {
+    "id": 25,
+    "message": "Curtindo as praias paradis\u00edacas de Maragogi.",
+    "user": "Guilherme"
+  },
+  {
+    "id": 26,
+    "message": "Apreciando a arte de Inhotim.",
+    "user": "Patr\u00edcia"
+  },
+  {
+    "id": 27,
+    "message": "Encantado com a vista do Mirante Dona Marta.",
+    "user": "Eduardo"
+  },
+  {
+    "id": 28,
+    "message": "Explorando a Floresta da Tijuca.",
+    "user": "Vanessa"
+  },
+  {
+    "id": 29,
+    "message": "Maravilhado com a imensid\u00e3o da Serra da Canastra.",
+    "user": "Marcos"
+  },
+  {
+    "id": 30,
+    "message": "Saboreando a culin\u00e1ria mineira em Tiradentes.",
+    "user": "Aline"
+  },
+  {
+    "id": 31,
+    "message": "Curtindo as praias de Morro de S\u00e3o Paulo.",
+    "user": "Thiago"
+  },
+  {
+    "id": 32,
+    "message": "Admirando a arquitetura de Bras\u00edlia.",
+    "user": "Luana"
+  },
+  {
+    "id": 33,
+    "message": "Explorando a riqueza hist\u00f3rica de Diamantina.",
+    "user": "Erick"
+  },
+  {
+    "id": 34,
+    "message": "Encantado com a cultura ga\u00facha em Gramado.",
+    "user": "Beatriz"
+  },
+  {
+    "id": 35,
+    "message": "Apreciando a vista do Cristo Redentor.",
+    "user": "Ricardo"
+  },
+  {
+    "id": 36,
+    "message": "Conhecendo as belezas do Parque Nacional de Itatiaia.",
+    "user": "Mariana"
+  },
+  {
+    "id": 37,
+    "message": "Curtindo as praias de Pipa.",
+    "user": "Alexandre"
+  },
+  {
+    "id": 38,
+    "message": "Explorando as dunas de Genipabu.",
+    "user": "Cintia"
+  },
+  {
+    "id": 39,
+    "message": "Maravilhado com as forma\u00e7\u00f5es rochosas do Parque Estadual do Jalap\u00e3o.",
+    "user": "Wagner"
+  },
+  {
+    "id": 40,
+    "message": "Saboreando o acaraj\u00e9 em Salvador.",
+    "user": "Daniela"
+  },
+  {
+    "id": 41,
+    "message": "Apreciando as cachoeiras de Presidente Figueiredo.",
+    "user": "Lucas"
+  },
+  {
+    "id": 42,
+    "message": "Encantado com a vida marinha de Abrolhos.",
+    "user": "Isabela"
+  },
+  {
+    "id": 43,
+    "message": "Conhecendo a cultura ind\u00edgena em Parintins.",
+    "user": "Gustavo"
+  },
+  {
+    "id": 44,
+    "message": "Explorando as belezas de Cabo Frio.",
+    "user": "Lara"
+  },
+  {
+    "id": 45,
+    "message": "Curtindo o Carnaval de Olinda.",
+    "user": "Rafael"
+  },
+  {
+    "id": 46,
+    "message": "Apreciando as belezas naturais de Bonito.",
+    "user": "Luiza"
+  },
+  {
+    "id": 47,
+    "message": "Encantado com as tradi\u00e7\u00f5es do Maranh\u00e3o.",
+    "user": "Bruno"
+  },
+  {
+    "id": 48,
+    "message": "Explorando a regi\u00e3o vin\u00edcola do Vale dos Vinhedos.",
+    "user": "Fernanda"
+  },
+  {
+    "id": 49,
+    "message": "Maravilhado com a cultura do Recife Antigo.",
+    "user": "Henrique"
+  },
+  {
+    "id": 50,
+    "message": "Conhecendo as riquezas da Amaz\u00f4nia.",
+    "user": "Larissa"
+  },
+  {
+    "id": 51,
+    "message": "Perdig\u00e3o \u00e9 bom",
+    "user": "Joaquim"
+  }
+]
